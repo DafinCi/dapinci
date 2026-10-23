@@ -6,10 +6,11 @@ sessions (Claude Code, Codex, Copilot CLI, Cursor, Gemini CLI, Antigravity, Muse
 Code, OpenCode, Amp, Hermes), a few service integrations, and a character called
 **ipin**, drawn in code with Canvas 2D — no images, no animation library.
 
-It is a fork of [Coucou](https://github.com/Louis-CFM/coucou). This repository
-holds only the Windows app, its plans and the asset scripts. The upstream
-project's Mac and iPhone apps, design files, website and relay are kept in a
-separate private reference copy; do not expect to find them here.
+It is based on [Coucou](https://github.com/Louis-CFM/coucou): a local copy that
+has been reworked here. This repository has its own history and is not a GitHub
+fork. It holds only the Windows app, its plans and the asset scripts. The
+upstream project's Mac and iPhone apps, design files, website and relay are kept
+in a separate private reference copy; do not expect to find them here.
 
 ## The plan of record
 

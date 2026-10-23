@@ -52,9 +52,11 @@ build, the layout, and how to recover when something misbehaves.
 
 ## Licence and credit
 
-DapinCi is a fork of **[Coucou](https://github.com/Louis-CFM/coucou)** by Louis
-Raillé. The source code is MIT — see [LICENSE](LICENSE) — and the `windows/` app
-is his work carried forward. Thank you to him for releasing it.
+DapinCi is based on **[Coucou](https://github.com/Louis-CFM/coucou)** by Louis
+Raillé. It began as a local copy of that repository and has since been reworked
+extensively; this repository has its own history and is **not a GitHub fork**.
+The source code is MIT — see [LICENSE](LICENSE) — and the `windows/` app is his
+work carried forward. Thank you to him for releasing it.
 
 Coucou's own name, character (Mochi), icons, sounds and media are **reserved**
 and are not reused here: DapinCi has its own name, its own icon, its own character
@@ -63,4 +65,4 @@ exact terms.
 
 This repository contains none of Coucou's artwork: no Mochi character, no Coucou
 icons and no Coucou media. The upstream project is linked above as the source
-this fork builds on.
+DapinCi builds on.

@@ -24,8 +24,8 @@ character, its app and menu-bar icons, its sounds, and the images, GIFs and
 videos from its `docs/media/` and `design/` folders remain the property of Louis
 Raillé and are not licensed here.
 
-DapinCi is an independent fork. It is not made or endorsed by the author of
-Coucou.
+DapinCi is an independent project based on Coucou. It is not made or endorsed by
+the author of Coucou.
 
 ## The names
 

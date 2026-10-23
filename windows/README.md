@@ -315,7 +315,7 @@ Installing is optional — `target/release/coucou.exe` runs on its own. There is
 window in the taskbar and no console: the island at the top of the screen and the
 ipin in the notification area are the whole app, and Quit lives in its menu.
 
-The 29 sounds are our own, rendered by `scripts/render-sounds.py`, and they live
+The 41 sounds are our own, rendered by `scripts/render-sounds.py`, and they live
 in `windows/sounds/`. The path is declared once, in `SOUNDS_DIR` at the top of
 `vite.config.ts`.
 
@@ -528,7 +528,7 @@ Code** and install the hooks again; it is safe to repeat, and your own entries i
 its own entries in that agent's config.
 
 **No sound.** Use **Settings… → General → Open sounds folder**: a file named like
-one of the 29 (`finish.wav`, `approval.mp3`…) replaces that sound. A file that
+one of the 41 (`finish.wav`, `approval.mp3`…) replaces that sound. A file that
 doesn't decode is ignored and the built-in sound plays instead. **Reload sounds**
 re-reads the folder without restarting.
 
@@ -560,13 +560,13 @@ The plan for each of these lives in
 
 ## Credits and licence
 
-DapinCi is a fork of **[Coucou](https://github.com/Louis-CFM/coucou)** by Louis
+DapinCi is based on **[Coucou](https://github.com/Louis-CFM/coucou)** by Louis
 Raillé, and the `windows/` app comes from that repository. Thank you to him: this
 project exists because his work is open.
 
 The MIT licence covers the **source code**. Coucou's own name, character, icons
 and sounds are reserved and are not reused here — DapinCi's icon, its character
-(ipin) and its 29 sounds are its own. The sounds are rendered by
+(ipin) and its 41 sounds are its own. The sounds are rendered by
 `scripts/render-sounds.py` and the icon by `windows/scripts/gen-icons.mjs`, so
 both can be regenerated rather than copied. See `LICENSE` and
 `LICENSE-ASSETS.md` at the root of the repository for the exact terms.
